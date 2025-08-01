@@ -1,0 +1,41 @@
+Skill,Resources,Free Certification
+Python,"https://docs.python.org/3/tutorial/, https://www.learnpython.org/",No
+SQL,"https://mode.com/sql-tutorial/, https://www.khanacademy.org/computing/computer-programming/sql",Yes
+Excel,"https://exceljet.net/, https://www.gcflearnfree.org/excel/",No
+Tableau,"https://www.tableau.com/learn/training, https://intellipaat.com/academy/course/tableau-free-course/",Yes
+Java,"https://www.learnjavaonline.org/, https://www.jetbrains.com/academy/",Yes
+Spring,"https://spring.io/guides, https://www.baeldung.com/spring-tutorial",No
+TensorFlow,"https://www.tensorflow.org/tutorials, https://www.coursera.org/learn/introduction-tensorflow",Yes
+Pandas,"https://pandas.pydata.org/docs/getting_started/, https://www.kaggle.com/learn/pandas",Yes
+Numpy,"https://numpy.org/learn/, https://www.kaggle.com/learn/numpy",Yes
+HTML,"https://developer.mozilla.org/en-US/docs/Web/HTML, https://www.w3schools.com/html/",No
+CSS,"https://developer.mozilla.org/en-US/docs/Web/CSS, https://www.w3schools.com/css/",No
+JavaScript,"https://javascript.info/, https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",Yes
+React,"https://react.dev/learn, https://www.freecodecamp.org/learn/front-end-development-libraries/react/",Yes
+Node.js,"https://nodejs.dev/en/learn, https://www.freecodecamp.org/learn/back-end-development-and-apis/",Yes
+MongoDB,"https://www.mongodb.com/docs/, https://university.mongodb.com/",Yes
+AWS,"https://aws.amazon.com/training/, https://www.coursera.org/learn/aws-cloud-practitioner-essentials",Yes
+Linux,"https://linuxjourney.com/, https://ubuntu.com/tutorials",No
+Docker,"https://docs.docker.com/get-started/, https://www.freecodecamp.org/news/learn-docker/",Yes
+Kubernetes,"https://kubernetes.io/docs/tutorials/, https://kube.academy/",Yes
+Git,"https://git-scm.com/doc, https://www.atlassian.com/git/tutorials",No
+CI/CD,"https://www.redhat.com/en/topics/devops/what-is-ci-cd, https://www.coursera.org/learn/devops-cicd",Yes
+Networking,"https://www.geeksforgeeks.org/computer-network-tutorials/, https://www.coursera.org/learn/computer-networking",Yes
+Firewalls,"https://www.cloudflare.com/learning/ddos/glossary/firewall/, https://skillsforall.com/course/cybersecurity-essentials",Yes
+Ethical Hacking,"https://www.eccouncil.org/ethical-hacking-certification/, https://tryhackme.com/",Yes
+Spark,"https://spark.apache.org/docs/latest/, https://www.datacamp.com/courses/introduction-to-pyspark",Yes
+ETL,"https://www.talend.com/resources/what-is-etl/, https://www.datacamp.com/courses/etl-fundamentals",Yes
+Power BI,"https://learn.microsoft.com/en-us/power-bi/fundamentals/, https://www.edx.org/learn/power-bi",Yes
+Communication,"https://www.coursera.org/learn/wharton-communication, https://www.mindtools.com/page8.html",Yes
+Kotlin,"https://kotlinlang.org/docs/home.html, https://developer.android.com/courses/kotlin-bootcamp/overview",Yes
+Android Studio,"https://developer.android.com/studio/intro, https://developer.android.com/courses/pathways/android-basics-kotlin-three",Yes
+Scikit-learn,"https://scikit-learn.org/stable/tutorial/basic/tutorial.html, https://www.datacamp.com/courses/supervised-learning-with-scikit-learn",Yes
+Manual Testing,"https://www.guru99.com/manual-testing.html, https://www.softwaretestinghelp.com/manual-testing-tutorial-1/",No
+Selenium,"https://www.selenium.dev/documentation/en/, https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/",Yes
+Bugzilla,"https://www.bugzilla.org/docs/, https://www.youtube.com/results?search_query=bugzilla+tutorial",No
+MySQL,"https://www.mysqltutorial.org/, https://www.khanacademy.org/computing/computer-programming/sql",Yes
+Performance Tuning,"https://www.red-gate.com/hub/database-development/sql-performance-tuning, https://www.geeksforgeeks.org/database-performance-tuning-tasks/",No
+Backup & Recovery,"https://www.oracle.com/database/technologies/backup-and-recovery.html, https://www.udemy.com/course/mysql-backup-recovery/",No
+Figma,"https://help.figma.com/hc/en-us/articles/360040514373-Learn-design-with-Figma/, https://www.coursera.org/projects/create-designs-in-figma",Yes
+Adobe XD,"https://helpx.adobe.com/xd/tutorials.html, https://www.youtube.com/results?search_query=adobe+xd+ui+ux+tutorial",No
+Design Thinking,"https://www.ideou.com/pages/design-thinking, https://www.coursera.org/learn/uva-darden-design-thinking-innovation",Yes

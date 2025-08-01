@@ -1,0 +1,16 @@
+Job Role,Required Skills,Category,Avg Salary
+Data Analyst,"Python;SQL;Excel;Tableau",Data Science,600000
+Backend Developer,"Java;Spring;SQL",Software Development,700000
+AI Engineer,"Python;TensorFlow;Pandas;Numpy",AI/ML,800000
+Frontend Developer,"HTML;CSS;JavaScript;React",Software Development,650000
+Full Stack Developer,"JavaScript;React;Node.js;MongoDB",Software Development,750000
+Cloud Engineer,"AWS;Linux;Docker;Kubernetes",Cloud Computing,850000
+DevOps Engineer,"Git;Docker;CI/CD;Kubernetes",Software Development,800000
+Cybersecurity Analyst,"Networking;Linux;Firewalls;Ethical Hacking",Security,720000
+Data Engineer,"Python;Spark;SQL;ETL",Data Engineering,780000
+Business Analyst,"Excel;SQL;Power BI;Communication",Business,650000
+Mobile App Developer,"Java;Kotlin;Android Studio",App Development,700000
+ML Engineer,"Python;Scikit-learn;TensorFlow;Numpy",AI/ML,850000
+Software Tester,"Manual Testing;Selenium;Java;Bugzilla",Testing,600000
+Database Administrator,"SQL;MySQL;Performance Tuning;Backup & Recovery",Database,700000
+UI/UX Designer,"Figma;Adobe XD;Design Thinking;CSS",Design,650000
